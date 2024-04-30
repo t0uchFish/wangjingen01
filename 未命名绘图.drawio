@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T03:08:47.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="MfVXNBT3cyWBkUZoqyFN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T05:28:55.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tbU4_cOfysTiBQfleQux" version="24.3.1" type="github">
   <diagram name="第 1 页" id="AtdurZMWjqWUE4Pi5Tlo">
-    <mxGraphModel>
+    <mxGraphModel dx="1253" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-14" value="&lt;b&gt;SCC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="330" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-17" value="&lt;b&gt;云星云管&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="175" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-19" value="浦发云管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="893" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RxvXhWoUhR2r5R3WfldH-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="848.5" y="205" width="163" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
